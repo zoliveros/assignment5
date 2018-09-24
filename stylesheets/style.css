@@ -1,0 +1,18 @@
+body{
+	background-color: #FFDADA;
+  color: #5F5454;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 25px;
+  background-image: url(../images/intern.jpg); background-repeat: no-repeat; background-size: 100%;
+
+}
+
+
+div{
+	font-family:"Alegreya Sans SC", sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: #FFFAFA;
+  background-color: #9CDDFD;
+  width:400px
+}
